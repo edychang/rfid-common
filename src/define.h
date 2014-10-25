@@ -20,8 +20,8 @@
 typedef unsigned char       uint8_t;
 
 #if defined(_MSC_VER)
-typedef __int16             uint16_t;
-typedef unsigned __int16    int16_t;
+typedef __int16             int16_t;
+typedef unsigned __int16    uint16_t;
 #endif
 
 #endif // __EZ_RFID_DEFINE_H__
