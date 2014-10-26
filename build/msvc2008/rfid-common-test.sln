@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rfid-common-test", "rfid-common-test.vcproj", "{4E3964C1-ABEC-49A0-BB55-4BC0E3C29EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3964C1-ABEC-49A0-BB55-4BC0E3C29EFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E3964C1-ABEC-49A0-BB55-4BC0E3C29EFC}.Debug|Win32.Build.0 = Debug|Win32
+		{4E3964C1-ABEC-49A0-BB55-4BC0E3C29EFC}.Release|Win32.ActiveCfg = Release|Win32
+		{4E3964C1-ABEC-49A0-BB55-4BC0E3C29EFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
