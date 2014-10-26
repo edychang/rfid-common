@@ -167,6 +167,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\src\byte_stream.cpp"
+				>
+			</File>
+			<File
 				RelativePath="..\..\src\rfid_common_test.cpp"
 				>
 			</File>
@@ -181,11 +185,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\src\byte_stream.h"
+				>
+			</File>
+			<File
 				RelativePath="..\..\src\define.h"
 				>
 			</File>
 			<File
 				RelativePath="..\..\src\test_byte_array.h"
+				>
+			</File>
+			<File
+				RelativePath="..\..\src\test_byte_stream.h"
 				>
 			</File>
 		</Filter>
