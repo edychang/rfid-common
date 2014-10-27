@@ -46,8 +46,8 @@ Temporary Items
 src/*.orig
 
 # Microsoft build files
-build/msvc2008/Debug/
-build/msvc2008/Release/
-build/msvc2008/rfid-common-test.ncb
-build/msvc2008/rfid-common-test.suo
-build/msvc2008/rfid-common-test.vcproj.*.*.user
+build/msvc20*/Debug/
+build/msvc20*/Release/
+build/msvc20*/rfid-common-test.ncb
+build/msvc20*/rfid-common-test.suo
+build/msvc20*/rfid-common-test.vcproj.*.*.user
